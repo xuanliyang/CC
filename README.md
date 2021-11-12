@@ -36,4 +36,7 @@ process
 - As a freshman in computing art, I decided to record my engagement of open-source community in a digital
 way. I was inspired by name tag sticker ,then I  roughly structured my Idea, a digital name tag with LCD based on Arduino.
 <img width="1184" alt="Xuanli" src="https://user-images.githubusercontent.com/94171772/141467787-60c0fdb7-20d3-461b-b70c-1b36a93b25d9.png">
+<img width="864" alt="截屏2021-11-12 下午8 39 48" src="https://user-images.githubusercontent.com/94171772/141468688-feb88734-8f20-4717-a414-a807625b1b46.png">
+- Then I roughly build my idea in the 3D software
+- ![coding name](https://user-images.githubusercontent.com/94171772/141468890-66859d51-dd6a-447b-af00-7225e20abe3d.jpg)
 
