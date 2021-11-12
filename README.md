@@ -4,7 +4,9 @@ The video on the list Enhanced my understanding of open source software. Actuall
 is free and available for all the users, especially for some freshman in the industry who can’t afford the expensive price charged from software, that would be a really good choice to get start.
 
 
-Blender community allows all the users to code the plug-in and share with each other
+- Blender community allows all the users to code the plug-in and share with each other.
+- If you want to start 3D Creation and experience using open source software, I highly recommend you to download blender.
+- https://www.blender.org
 <img width="493" alt="Community" src="https://user-images.githubusercontent.com/94171772/141454302-63d4e74d-2e43-4896-baf2-e516ff5e2d88.png">
 
 
