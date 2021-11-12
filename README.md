@@ -34,6 +34,8 @@ process
 
 
 ![Dag_Hammarskjöld_-_ASCII_-_teleprinter_art_-1962](https://user-images.githubusercontent.com/94171772/141473973-fa6f54f8-157d-462f-829c-3c38774c9539.jpg)
+
+
 Dag Hammarskjöld, printout from teleprinter 1961-62
 
 
