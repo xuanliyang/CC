@@ -42,5 +42,11 @@ code based on C++
 
 ![coding name](https://user-images.githubusercontent.com/94171772/141469067-ce9b8d32-9a78-43cd-8502-0f8b701ba7db.jpg)
 
+# reference list #
+https://www.youtube.com/watch?v=EUJHHLAxRoQ
+https://www.youtube.com/watch?v=v_raWlX7tZY
+https://societycentered.design
+https://www.youtube.com/watch?v=DMTDYd6rwAo&t=1230s
+
 
 
