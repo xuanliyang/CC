@@ -39,6 +39,7 @@ way. I was inspired by name tag sticker ,then I  roughly structured my Idea, a d
 code based on C++
 <img width="864" alt="截屏2021-11-12 下午8 39 48" src="https://user-images.githubusercontent.com/94171772/141468688-feb88734-8f20-4717-a414-a807625b1b46.png">
 - Then I roughly build my idea in the 3D software
+
 ![coding name](https://user-images.githubusercontent.com/94171772/141469067-ce9b8d32-9a78-43cd-8502-0f8b701ba7db.jpg)
 
 
