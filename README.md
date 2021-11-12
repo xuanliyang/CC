@@ -31,3 +31,5 @@ process
 - <img width="262" alt="#convert each pixel to grayscale" src="https://user-images.githubusercontent.com/94171772/141457798-49a2e8ee-2dd8-44f8-8010-a6a761c2bf7a.png">
 - The more pixels a character has, the greater its grayscale.
 - Then, run it and upload the photo, you will get a ASCII art.
+
+### Project 2 name tag based on the arduino ###
