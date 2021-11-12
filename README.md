@@ -24,6 +24,9 @@ This is the part that I struggle with.I learned some knowledges from Physics cla
 
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII). The term is also loosely used to refer to text based visual art in general. ASCII art can be created with any text editor, and is often used with free-form languages. Most examples of ASCII art require a fixed-width font (non-proportional fonts, as on a traditional typewriter) such as Courier for presentation.
 
+![Dag_Hammarskjöld_-_ASCII_-_teleprinter_art_-1962](https://user-images.githubusercontent.com/94171772/141473973-fa6f54f8-157d-462f-829c-3c38774c9539.jpg)
+Dag Hammarskjöld, printout from teleprinter 1961-62
+
 process
 - You will be typing in the character you will use.
 - <img width="443" alt="ascii characters used to build the output text" src="https://user-images.githubusercontent.com/94171772/141457743-244d25fd-8842-47b5-b1b6-17285f4403bc.png">
