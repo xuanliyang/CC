@@ -33,3 +33,7 @@ process
 - Then, run it and upload the photo, you will get a ASCII art.
 
 ### Project 2 name tag based on the arduino ###
+- As a freshman in computing art, I decided to record my engagement of open-source community in a digital
+way. I was inspired by name tag sticker ,then I  roughly structured my Idea, a digital name tag with LCD based on Arduino.
+<img width="1184" alt="Xuanli" src="https://user-images.githubusercontent.com/94171772/141467787-60c0fdb7-20d3-461b-b70c-1b36a93b25d9.png">
+
