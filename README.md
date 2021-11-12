@@ -22,6 +22,11 @@ This is the part that I struggle with.I learned some knowledges from Physics cla
 ### Project 1 ASCII ART ###
 <img width="1792" alt="截屏2021-11-12 下午5 46 20" src="https://user-images.githubusercontent.com/94171772/141457673-b6b05dba-50f6-46ed-aaf7-d0698074ea84.png">
 
+
+![Dag_Hammarskjöld_-_ASCII_-_teleprinter_art_-1962](https://user-images.githubusercontent.com/94171772/141473973-fa6f54f8-157d-462f-829c-3c38774c9539.jpg)
+
+
+Dag Hammarskjöld, printout from teleprinter 1961-62
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII). The term is also loosely used to refer to text based visual art in general. ASCII art can be created with any text editor, and is often used with free-form languages. Most examples of ASCII art require a fixed-width font (non-proportional fonts, as on a traditional typewriter) such as Courier for presentation.
 
 process
@@ -33,10 +38,7 @@ process
 - Then, run it and upload the photo, you will get a ASCII art.
 
 
-![Dag_Hammarskjöld_-_ASCII_-_teleprinter_art_-1962](https://user-images.githubusercontent.com/94171772/141473973-fa6f54f8-157d-462f-829c-3c38774c9539.jpg)
 
-
-Dag Hammarskjöld, printout from teleprinter 1961-62
 
 
 ### Project 2 name tag based on the arduino ###
