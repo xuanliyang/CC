@@ -16,3 +16,18 @@ This is the part that I struggle with.I learned some knowledges from Physics cla
 ![Yotuge1](https://user-images.githubusercontent.com/94171772/141456537-db0d0382-ac74-4d7c-982d-6c90d34c8e9d.jpg)
 <img width="568" alt="OO UNO" src="https://user-images.githubusercontent.com/94171772/141456553-6a73dfa0-1a71-480d-8d53-2b18b67391ba.png">
 <img width="1792" alt="截屏2021-11-10 下午11 30 07" src="https://user-images.githubusercontent.com/94171772/141456567-e4338194-ef4c-49b1-9ce2-1c1bf577c45c.png">
+
+# Day3 & 4 #
+## Start coding & testing ##
+Project 1 ASCII ART
+<img width="1792" alt="截屏2021-11-12 下午5 46 20" src="https://user-images.githubusercontent.com/94171772/141457673-b6b05dba-50f6-46ed-aaf7-d0698074ea84.png">
+
+ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII). The term is also loosely used to refer to text based visual art in general. ASCII art can be created with any text editor, and is often used with free-form languages. Most examples of ASCII art require a fixed-width font (non-proportional fonts, as on a traditional typewriter) such as Courier for presentation.
+
+process
+- You will be typing in the character you will use.
+- <img width="443" alt="ascii characters used to build the output text" src="https://user-images.githubusercontent.com/94171772/141457743-244d25fd-8842-47b5-b1b6-17285f4403bc.png">
+- Then your computer will arrange their grayscale in order.
+- <img width="262" alt="#convert each pixel to grayscale" src="https://user-images.githubusercontent.com/94171772/141457798-49a2e8ee-2dd8-44f8-8010-a6a761c2bf7a.png">
+- The more pixels a character has, the greater its grayscale.
+- Then, run it and upload the photo, you will get a ASCII art.
